@@ -1,2 +1,0 @@
-# Thembela
-Data Analytics
